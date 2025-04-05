@@ -119,3 +119,9 @@ Licensed under the APLv2. See the [LICENSE](https://github.com/jsynowiec/node-ty
 [ts47-esm]: https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/#esm-nodejs
 [editorconfig]: https://editorconfig.org
 [vitest]: https://vitest.dev
+
+
+
+// To run this project
+1. tsc
+2. node build/src/modules/ParkingLotDemo.js
